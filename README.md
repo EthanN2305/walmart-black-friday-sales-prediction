@@ -34,4 +34,4 @@ This project earned 2nd place overall at Data@UCI's Winter Project Showcase.
 * Evaluated models using RMSE and $R^2$ on validation and test sets
 
 ## Results
-The Random Forest Regressor provides the most accuracy in predicting purchase amount spent for a given user.
+The Random Forest Regressor provides the most accuracy in predicting purchase amount spent in a specfic product category for a given user.
