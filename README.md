@@ -1,5 +1,7 @@
 # Walmart Black Friday Sales Analysis
 
+[Walmart Project Pitch](https://docs.google.com/presentation/d/1ftQAPWpcRPjzrXyLprgXe9GGze8RU-8292pOfqCCxDE/edit?usp=sharing)
+
 This repository contains a data science project focused on analyzing and predicting sales data during Walmart's 2023 Black Friday sale. The project leverages data preprocessing, exploratory data analysis (EDA), and predictive modeling techniques to uncover insights and build accurate models.
 
 Research Question: How can we predict a user's expenditure in a specific product category based on their profile data?
@@ -33,6 +35,3 @@ This project earned 2nd place overall at Data@UCI's Winter Project Showcase.
 
 ## Results
 The Random Forest Regressor provides the most accuracy in predicting purchase amount spent for a given user.
-
-
-[Walmart Project Pitch](https://docs.google.com/presentation/d/1ftQAPWpcRPjzrXyLprgXe9GGze8RU-8292pOfqCCxDE/edit?usp=sharing)
