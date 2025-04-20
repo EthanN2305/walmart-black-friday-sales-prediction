@@ -14,6 +14,9 @@ In this project we:
 * Split the dataset into training (60%), validation (30%), and testing (10%) sets to prevent overfitting
 * Built and evaluated predictive models to forecast purchase behavior
 
+## Recognition
+This project earned 2nd place overall at Data@UCI's Winter Project Showcase.
+
 ## Methodology
 **1. Data Preprocessing**
 * Handled missing values and cleaned the dataset
